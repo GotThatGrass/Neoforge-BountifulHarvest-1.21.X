@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bountifulharvest:wooden_crate"
+        }
+      ],
+      "conditions": []
+    }
+  ],
+  "random_sequence": "bountifulharvest:blocks/wooden_crate"
+}
